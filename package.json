@@ -1,0 +1,25 @@
+{
+  "name": "pattern-solid-color",
+  "version": "1.0.0",
+  "repository": "royvandewater/pattern-solid-color",
+  "scripts": {
+    "start": "coffee command.coffee",
+    "test":  "mocha"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "lodash": "^2.4.1",
+    "meshblu": "^1.8.3",
+    "debug": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  },
+  "keywords": [
+    "meshblu-connector",
+    "gateblu"
+  ]
+}
